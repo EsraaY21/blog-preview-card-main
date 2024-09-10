@@ -114,6 +114,7 @@ h1:hover {
 .footer {
     display: flex;
     gap: 0.75rem;
+    align-items: center;
 }
 
 .footer img {
